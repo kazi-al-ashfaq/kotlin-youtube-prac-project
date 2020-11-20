@@ -51,8 +51,5 @@ This course was developed by Nate Ebel [Click here for his YouTube Channel](http
 * Extension Functions/Properties
 * Higher-Order Functions 
 * Using The Kotlin Standard Library 
-<<<<<<< HEAD
 * Data Classes
-=======
-* Data Classes
->>>>>>> f51439adbb46a0abcc27d8948dfceae50ebf0fa5
+
